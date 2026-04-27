@@ -55,6 +55,22 @@ InSeC consists of three main modules:
 ![InSeC Architecture](https://github.com/zhousandeqingshu/ZhCode/blob/main/InSeC.png)  
 *Figure 2 from the paper – the full network structure.*
 
+
+
+---
+##  caption ability of InSeC
+These experimental results highlight the satisfactory performance of our proposed
+method not only on CNV and PSR steganographic datasets
+but also in effectively detecting steganographic content in
+the JPS speech dataset. Fig. 5 demonstrates the visualization
+results of the features in the middle layer of the network
+(before the last linear layer) using the method described in
+this paper. As the embedding rate increases, the distance
+between the cover and stego samples becomes farther and
+farther.
+
+![InSeC Architecture](https://github.com/zhousandeqingshu/ZhCode/blob/main/InSeC.png)  
+*Figure 5 from the paper – The visualization results of the hidden features extracted by our proposed method.*
 ---
 
 ## 📊 Performance Highlights
