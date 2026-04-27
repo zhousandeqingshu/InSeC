@@ -69,9 +69,12 @@ this paper. As the embedding rate increases, the distance
 between the cover and stego samples becomes farther and
 farther.
 
-![InSeC Architecture](https://github.com/zhousandeqingshu/ZhCode/blob/main/InSeC.png)  
+
+
+![t-SNE Resultes](https://github.com/zhousandeqingshu/InSeC/blob/main/t-SNE.png)  
 *Figure 5 from the paper – The visualization results of the hidden features extracted by our proposed method.*
----
+
+
 
 ## 📊 Performance Highlights
 
